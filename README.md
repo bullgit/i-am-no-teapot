@@ -1,6 +1,6 @@
 # i am no teapot
 
-### fake http errorpages
+### fake http errors
 
 a collection of fake http errors
 
